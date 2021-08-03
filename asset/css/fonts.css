@@ -1,0 +1,62 @@
+/* Bangla */
+@font-face {
+  font-family: "Solimanlipi";
+  src: url("../font/bangla/Solaimanlipi.ttf/solaimanlipi_22-02-2012.ttf") format("truetype");
+}
+/* English */
+@font-face {
+  font-family: "Roboto";
+  src: url("../font/english/Roboto.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url("../font/english/Ubuntu.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Righteous";
+  src: url("../font/english/Righteous.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Play";
+  src: url("../font/english/Play.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Kanit";
+  src: url("../font/english/Kanit.ttf") format("truetype");
+}
+@font-face {
+  font-family: "GreatVibes";
+  src: url("../font/english/GreatVibes.ttf") format("truetype");
+}
+@font-face {
+  font-family: "FjallaOne";
+  src: url("../font/english/FjallaOne.ttf") format("truetype");
+}
+@font-face {
+  font-family: "DancingScript";
+  src: url("../font/english/DancingScript.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Cinzel";
+  src: url("../font/english/Cinzel.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Anton";
+  src: url("../font/english/Anton.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AbrilFatface";
+  src: url("../font/english/AbrilFatface.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Abel";
+  src: url("../font/english/Abel.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Nunito";
+  src: url("../font/english/Nunito.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Nunito-Bold";
+  src: url("../font/english/Nunito-Bold.ttf") format("truetype");
+}

@@ -1,0 +1,12 @@
+$colorA: rgb(63, 78, 145);
+
+@mixin flexCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin bgImage ($height, $url) {
+  height: $height;
+  background: linear-gradient(rgba(0, 0, 40, 0.7),rgba(0, 0, 40, 0.5),rgba(0, 0, 40, 0.7)), $url center/cover no-repeat;
+} 
